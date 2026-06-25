@@ -21,7 +21,7 @@ The systems are developed as separate Laravel applications and connected through
 - Lecturer information
 - Payment monitoring dashboard
 
-![SIAKAD Dashboard](images/dashboardsiakadpng)
+![SIAKAD Dashboard](images/dashboardsiakad.png)
 
 ### 2. SIMPEG (Human Resource Information System)
 
@@ -29,15 +29,12 @@ The systems are developed as separate Laravel applications and connected through
 - Academic position management
 - Lecturer information provider for SIAKAD
 
-![SIMPEG Dashboard](images/simpeg-dashboard.png)
-
 ### 3. SIKEU (Financial Information System)
 
 - Billing management
 - Financial analytics dashboard
 - Midtrans payment integration
 
-![SIKEU Dashboard](images/dashboard1_sikeu.png)
 ![SIKEU Dashboard](images/dashboard2_sikeu.png)
 
 ## Key Features
